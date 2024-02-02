@@ -3,7 +3,8 @@
 ## Cold sauces
 * [Guacamole](guacamole.md)
 
-## Hot sauces
+## Pasta
+* [Pasta](pasta.md)
 
 ## Pizza
 * [Baguette Pizza](baguettapizza.md)
